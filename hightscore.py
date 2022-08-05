@@ -10,7 +10,5 @@ for score in student_scores:
 print(f"The highest score is: {highest_score}")
 
 
-
-
 print(max(student_scores))
 print(min(student_scores))
